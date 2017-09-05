@@ -1,3 +1,3 @@
-# 配置方法
+# 部署流程
 
-待完成
+1. [安装GitLab](deploy/gitlab.md)
