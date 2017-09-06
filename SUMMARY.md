@@ -15,4 +15,3 @@
   * [创建编排模板](deploy/compose.md)
   * [创建应用](deploy/service.md)
 * [总结](conclusion.md)
-* [常见问题](faq.md)
