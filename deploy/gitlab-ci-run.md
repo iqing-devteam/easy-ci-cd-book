@@ -39,5 +39,3 @@ docker run -it -v /var/run/docker.sock:/var/run/docker.sock --rm gitlab-runner:v
 ![](../images/10.png)
 
 那么我们就完整的演示了一次，CI是怎么配合Merge Request对Master分支进行保护的了。
-
-（未完待续...)
